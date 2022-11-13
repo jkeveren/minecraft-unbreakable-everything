@@ -1,0 +1,6 @@
+#!/bin/sh
+
+distributable=unbreakable-everything.zip
+
+rm -f $distributable
+7z a $distributable *
