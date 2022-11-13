@@ -1,0 +1,10 @@
+{
+	"criteria": {
+		"unlocked": {
+			"trigger": "minecraft:item_durability_changed"
+		}
+	},
+	"rewards": {
+		"function": "unbreakable:make_all_unbreakable"
+	}
+}
